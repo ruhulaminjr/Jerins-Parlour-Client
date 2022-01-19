@@ -23,8 +23,7 @@ const Contact = () => {
               justifyContent: "center",
             }}
           >
-            <form
-            >
+            <form>
               <Grid
                 container
                 spacing={3}
